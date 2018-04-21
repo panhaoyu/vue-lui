@@ -6,14 +6,14 @@
 
 <script>
   export default {
-    name: "vRow",
+    name: "row",
   }
 </script>
 
 <style scoped>
   .row {
     display: flex;
-    flex-flow: row nowrap;
+    flex-flow: row wrap;
     width: 100%;
   }
 </style>

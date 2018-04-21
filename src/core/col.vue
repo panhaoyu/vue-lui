@@ -6,18 +6,18 @@
 
 <script>
   export default {
-    name: "vCol",
+    name: "col",
     props: {
       width: {
         default: 1,
-      },
+      }
     },
     computed: {
       styleObject: function () {
         return {
           flex: Number(this.width),
         }
-      },
+      }
     },
   }
 </script>
@@ -29,5 +29,4 @@
     flex-basis: 0;
     flex-shrink: 0;
   }
-
 </style>
