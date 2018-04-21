@@ -1,0 +1,11 @@
+{
+  "name": "vue-lui",
+  "version": "0.0.2-0",
+  "description": "A set of tiny components for vue2. Mobile first.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "panhaoyu",
+  "license": "ISC"
+}
