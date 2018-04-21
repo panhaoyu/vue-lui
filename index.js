@@ -1,1 +1,3 @@
-export default from './src/'
+import Plugin from './src/'
+
+export default Plugin;
